@@ -3,7 +3,7 @@ import CertificateForm from "./components/CertificateForm";
 import CertificatePreview from "./components/CertificatePreview";
 import Footer from "./components/Footer";
 
-const ADMIN_PASSKEY = "SOES@2025";
+const ADMIN_PASSKEY = "SOES@2026";
 
 function App() {
   const [auth, setAuth] = useState(false);
